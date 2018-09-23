@@ -60,7 +60,7 @@ defmodule FirstDayExample do
 
   ###################################################################
 
-  # # ATTEMPT ONE - String interpolation
+  # # ATTEMPT FIVE - String interpolation
   # # String interpolation is a way of simplying string concatenation. It's becoming pretty common in languages
   # #   nowadays, and here is what it looks like in Elixir. That "howdy" line is exactly the same as the
   # #   "howdy" line from the example above.
